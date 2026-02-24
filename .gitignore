@@ -1,0 +1,10 @@
+.DS_Store
+**/.DS_Store
+
+.env
+*.secret
+credentials/
+
+# PowerShell audit exports
+*-audit.json
+*.audit.json
