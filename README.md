@@ -22,6 +22,7 @@ This template gives you a clean baseline to standardize those docs without expos
 - [`docs/policies/cjis/`](docs/policies/cjis/)
 - [`docs/policies/isc/`](docs/policies/isc/)
 - [`docs/policies/it/`](docs/policies/it/)
+- [`docs/policies/compliance/`](docs/policies/compliance/)
 - [`docs/technology/`](docs/technology/)
 - [`docs/technology/infrastructure/`](docs/technology/infrastructure/)
 - [`docs/technology/systems/`](docs/technology/systems/)
