@@ -1,60 +1,68 @@
 # Governance Documentation Template
 
-Public template for policy, compliance, and platform documentation.
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-## Purpose
+A public, production-oriented template for teams that need structured governance, compliance, and platform documentation.
 
-Use this repository as a baseline for:
+## Why This Repo Exists
 
-- Governance policies and standards
-- Operational SOPs
-- Technology platform documentation
-- Compliance control mapping and audit readiness
+Most teams have policies in one place, technical runbooks in another, and compliance evidence somewhere else.
+This template gives you a clean baseline to standardize those docs without exposing sensitive operational data.
 
-## Repository Structure
+## What You Get
 
-### [docs/policies/](docs/policies/)
+- Policy and SOP templates organized by function
+- Infrastructure and system documentation templates
+- Built-in public/private boundary guidance
+- A fork-friendly structure for organization-specific branding and overlays
 
-Governance, compliance, and operations policies.
+## Repository Layout
 
-- **[cjis/](docs/policies/cjis/)** - CJIS-aligned policy templates
-- **[isc/](docs/policies/isc/)** - Analyst and operations procedure templates
-- **[it/](docs/policies/it/)** - IT governance and change-management templates
+- [`docs/policies/`](docs/policies/)
+- [`docs/policies/cjis/`](docs/policies/cjis/)
+- [`docs/policies/isc/`](docs/policies/isc/)
+- [`docs/policies/it/`](docs/policies/it/)
+- [`docs/technology/`](docs/technology/)
+- [`docs/technology/infrastructure/`](docs/technology/infrastructure/)
+- [`docs/technology/systems/`](docs/technology/systems/)
+- [`docs/resources/`](docs/resources/)
 
-### [docs/technology/](docs/technology/)
+## Who This Is For
 
-Technical system and platform documentation templates.
+- Security and compliance teams
+- IT leadership and platform owners
+- Public-sector or regulated environments
+- Teams that want reusable documentation standards across multiple repos
 
-- **[systems/](docs/technology/systems/)** - Application and system-level documentation
-- **[infrastructure/](docs/technology/infrastructure/)** - Identity, messaging, collaboration, and security platform docs
+## Quick Start
 
-### [docs/resources/](docs/resources/)
+1. Fork this repository.
+2. Replace placeholder values with organization-specific content.
+3. Keep sensitive artifacts (inventory exports, evidence, binary docs) in a private companion repository.
+4. Use pull requests for policy/version updates.
 
-Index-only folder for references that are intentionally not stored in upstream.
+## Public/Private Model
 
-## Public/Private Split Model
+Recommended operating model:
 
-Recommended model:
+1. Keep this upstream public and reusable.
+2. Maintain branded downstream forks for organization-specific content.
+3. Store internal operational evidence and binary source material in private repos.
 
-1. Keep this repo public as your generic baseline.
-2. Fork into your organization for branding and org-specific customization.
-3. Store binary artifacts and sensitive operational records in a separate private repo.
+## Design Principles
 
-## Recommended Compliance Frameworks
-
-- FBI CJIS Security Policy
-- NIST Cybersecurity Framework
-- NIST SP 800-53
-- Organization-specific regulatory requirements
+- Clear structure over ad hoc docs
+- Minimal assumptions, easy customization
+- Public-safe by default
+- Role-based ownership and review
 
 ## Contributing
 
-When adding or updating policy documents, include:
+See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
-- Version
-- Effective date
-- Next review date
-- Document owner role
+## Security
+
+See [`SECURITY.md`](SECURITY.md).
 
 ## License
 
