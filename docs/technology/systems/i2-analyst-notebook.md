@@ -2,7 +2,7 @@
 
 ## Overview
 
-i2 Analyst's Notebook is a visual analysis software used by Organization Name for intelligence analysis, link analysis, and investigative case management.
+i2 Analyst's Notebook is a visual analysis software used by Central Florida HIDTA for intelligence analysis, link analysis, and investigative case management.
 
 ## Licensing Information
 

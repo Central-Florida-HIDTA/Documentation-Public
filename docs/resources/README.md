@@ -1,9 +1,7 @@
 # Resources Index
 
-This upstream repository does not store binary source artifacts.
+Public repository scope excludes binary source artifacts and internal records.
 
-Use this folder to document where downstream private repositories keep:
+Internal-only materials are maintained in:
 
-- Source PDFs/DOCX/XLSX
-- Vendor manuals and contractual artifacts
-- Internal audit evidence exports
+- `Central-Florida-HIDTA/Documentation-Resources-Internal`

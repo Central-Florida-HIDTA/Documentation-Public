@@ -1,6 +1,6 @@
 # Analyst Systems Catalog  
 
-This catalog defines all programs accessible to analysts across Organization Name initiatives. It serves as a single authoritative reference for audit, compliance, and access management. Each entry notes whether the program impacts CJIS data, the type of data it handles, and ownership/authorization.  
+This catalog defines all programs accessible to analysts across Central Florida HIDTA initiatives. It serves as a single authoritative reference for audit, compliance, and access management. Each entry notes whether the program impacts CJIS data, the type of data it handles, and ownership/authorization.  
 
 ## Program Categories  
 

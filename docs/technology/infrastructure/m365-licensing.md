@@ -2,7 +2,7 @@
 
 ## Overview
 
-Organization Name's Microsoft 365 subscription licensing inventory and consumption tracking.
+Central Florida HIDTA's Microsoft 365 subscription licensing inventory and consumption tracking.
 
 **Tenant:** example.org  
 **Tenant ID:** `9a6b75a5-cecf-400f-ac7b-10661ef878f4`  

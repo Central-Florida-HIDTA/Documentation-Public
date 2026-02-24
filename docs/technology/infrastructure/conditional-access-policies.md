@@ -639,7 +639,7 @@ $policies | ForEach-Object {
 ## Support and Documentation
 
 **Conditional Access Admin:** Platform Owner (<platform-owner-email>)  
-**Privileged Access:** <<privileged-admin-upn>>  
+**Privileged Access:** <privileged-admin-upn>  
 **Azure Portal:** [Conditional Access Policies](https://portal.azure.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade)
 
 ## Known Limitations

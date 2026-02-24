@@ -27,7 +27,7 @@ This SOP does **not** govern the creation or approval of policy content, only it
 
 The authoritative source for all organization policy documentation is the private GitHub repository:
 
-**<private-source-repo>**
+**Central-Florida-HIDTA/Documentation**
 
 All policy authoring, revisions, and version history are maintained exclusively within this repository.
 
@@ -143,6 +143,6 @@ This SOP shall be:
 
 ---
 
-**Document Owner:** IT Manager, Organization Name  
+**Document Owner:** IT Manager, Central Florida HIDTA  
 **Classification:** Internal Use  
 **Effective Date:** Upon approval

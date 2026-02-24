@@ -1,60 +1,47 @@
-# Governance Documentation Template
+# Central Florida HIDTA Documentation (Public)
 
-Public template for policy, compliance, and platform documentation.
+Public-facing governance and technology documentation baseline for Central Florida HIDTA.
+
+## Upstream
+
+This repository is a branded fork of:
+
+- `joshphillipssr/governance-documentation-template`
 
 ## Purpose
 
-Use this repository as a baseline for:
-
-- Governance policies and standards
-- Operational SOPs
-- Technology platform documentation
-- Compliance control mapping and audit readiness
+- Publish reusable governance and compliance documentation patterns
+- Document public-safe architecture and control baselines
+- Provide a structured downstream for internal/private documentation overlays
 
 ## Repository Structure
 
 ### [docs/policies/](docs/policies/)
 
-Governance, compliance, and operations policies.
+Policy and SOP content grouped by function:
 
-- **[cjis/](docs/policies/cjis/)** - CJIS-aligned policy templates
-- **[isc/](docs/policies/isc/)** - Analyst and operations procedure templates
-- **[it/](docs/policies/it/)** - IT governance and change-management templates
+- **[cjis/](docs/policies/cjis/)**
+- **[isc/](docs/policies/isc/)**
+- **[it/](docs/policies/it/)**
 
 ### [docs/technology/](docs/technology/)
 
-Technical system and platform documentation templates.
+Technology documentation templates for:
 
-- **[systems/](docs/technology/systems/)** - Application and system-level documentation
-- **[infrastructure/](docs/technology/infrastructure/)** - Identity, messaging, collaboration, and security platform docs
+- systems
+- infrastructure
 
 ### [docs/resources/](docs/resources/)
 
-Index-only folder for references that are intentionally not stored in upstream.
+Index-only location for resources excluded from this public repository.
 
-## Public/Private Split Model
+## Public/Private Boundary
 
-Recommended model:
+This repository intentionally excludes binary artifacts and internal operational evidence.
 
-1. Keep this repo public as your generic baseline.
-2. Fork into your organization for branding and org-specific customization.
-3. Store binary artifacts and sensitive operational records in a separate private repo.
+Internal-only resource artifacts are stored in:
 
-## Recommended Compliance Frameworks
-
-- FBI CJIS Security Policy
-- NIST Cybersecurity Framework
-- NIST SP 800-53
-- Organization-specific regulatory requirements
-
-## Contributing
-
-When adding or updating policy documents, include:
-
-- Version
-- Effective date
-- Next review date
-- Document owner role
+- `Central-Florida-HIDTA/Documentation-Resources-Internal`
 
 ## License
 

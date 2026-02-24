@@ -1,6 +1,6 @@
 # organization Intelligence Analyst Profile  
 
-This profile defines the baseline role, responsibilities, and access eligibility for analysts assigned to the Organization Name. It describes the core duties performed by all analysts and outlines how access to systems is governed. Actual system access is determined by agency sponsorship, task force assignment, and documented operational need.  
+This profile defines the baseline role, responsibilities, and access eligibility for analysts assigned to the Central Florida HIDTA. It describes the core duties performed by all analysts and outlines how access to systems is governed. Actual system access is determined by agency sponsorship, task force assignment, and documented operational need.  
 
 ## Purpose  
 - Establish a single authoritative analyst role description  

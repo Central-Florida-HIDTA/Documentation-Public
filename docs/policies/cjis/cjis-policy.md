@@ -1,4 +1,4 @@
-# Organization Name Incident Response Plan (IRP)  
+# Central Florida HIDTA Incident Response Plan (IRP)  
 
 **Version:** 1.0  
 **Effective Date:** TBD  

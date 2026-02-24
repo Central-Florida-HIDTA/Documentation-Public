@@ -2,7 +2,7 @@
 
 ## Overview
 
-Microsoft Intune is Organization Name's cloud-based endpoint management solution for managing mobile devices, desktop computers, and applications. Intune is included with the Microsoft 365 G3 GCC license.
+Microsoft Intune is Central Florida HIDTA's cloud-based endpoint management solution for managing mobile devices, desktop computers, and applications. Intune is included with the Microsoft 365 G3 GCC license.
 
 **Service Type:** Cloud-based Mobile Device Management (MDM) and Mobile Application Management (MAM)  
 **License:** Included with Microsoft 365 G3 GCC  

@@ -1,7 +1,7 @@
-# Organization Name – IT Manager Sitebook  
+# Central Florida HIDTA – IT Manager Sitebook  
 
 ## 1. Purpose of This Sitebook  
-This IT Manager Sitebook serves as a centralized operational, technical, and governance reference for the Organization Name. It is designed to support:  
+This IT Manager Sitebook serves as a centralized operational, technical, and governance reference for the Central Florida HIDTA. It is designed to support:  
 - Continuity of operations  
 - CJIS compliance  
 - Security audits  
@@ -17,7 +17,7 @@ This document is intended for:
 ## 2. Organizational Overview  
 
 ### 2.1 Agency Mission  
-Organization Name supports federal, state, local, and tribal law‑enforcement agencies in disrupting and dismantling drug trafficking organizations through intelligence sharing, operational coordination, and technology enablement.  
+Central Florida HIDTA supports federal, state, local, and tribal law‑enforcement agencies in disrupting and dismantling drug trafficking organizations through intelligence sharing, operational coordination, and technology enablement.  
 
 ### 2.2 IT Program Objectives  
 - Maintain secure, reliable, CJIS‑compliant IT systems  

@@ -150,6 +150,6 @@ This policy shall be:
 
 ---
 
-**Document Owner:** IT Manager, Organization Name  
+**Document Owner:** IT Manager, Central Florida HIDTA  
 **Classification:** Internal Use  
 **Effective Date:** Upon approval

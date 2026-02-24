@@ -4,7 +4,7 @@
 
 ## 1. Purpose
 
-This Artificial Intelligence (AI) Security & Governance Policy establishes requirements for the responsible, secure, and compliant use of Artificial Intelligence systems within Organization Name (organization).
+This Artificial Intelligence (AI) Security & Governance Policy establishes requirements for the responsible, secure, and compliant use of Artificial Intelligence systems within Central Florida HIDTA (HIDTA).
 
 The objectives of this policy are to:
 - Ensure AI systems are used in a manner consistent with CJIS Security Policy requirements
@@ -137,7 +137,7 @@ organization shall continually evaluate and improve its AI governance framework 
 
 ---
 
-**Document Owner:** IT Manager, Organization Name  
+**Document Owner:** IT Manager, Central Florida HIDTA  
 **Classification:** Internal Use  
 **Standard Reference:** ISO/IEC 42001:2023  
 **Effective Date:** Upon approval

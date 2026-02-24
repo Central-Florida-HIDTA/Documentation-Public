@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Microsoft Purview Compliance Manager (formerly Security & Compliance Center) is the centralized hub for managing data governance, protection, and compliance in Microsoft 365. It provides Data Loss Prevention (DLP), retention policies, eDiscovery, audit logging, and information governance for Organization Name.
+The Microsoft Purview Compliance Manager (formerly Security & Compliance Center) is the centralized hub for managing data governance, protection, and compliance in Microsoft 365. It provides Data Loss Prevention (DLP), retention policies, eDiscovery, audit logging, and information governance for Central Florida HIDTA.
 
 **Service Type:** Cloud-based Compliance and Data Governance  
 **License:** Included with Microsoft 365 G3 GCC (basic features), M365 E5 GCC (advanced)  
@@ -432,7 +432,7 @@ New-AutoSensitivityLabelPolicy -Name "ISC Case Files Auto-Label" `
 ## Support and Governance
 
 **Compliance Owner:** Platform Owner (<platform-owner-email>)  
-**Privileged Access:** <<privileged-admin-upn>>  
+**Privileged Access:** <privileged-admin-upn>  
 **Portal:** [Microsoft Purview Compliance Manager](https://compliance.microsoft.com)
 
 **Compliance Team Responsibilities:**
