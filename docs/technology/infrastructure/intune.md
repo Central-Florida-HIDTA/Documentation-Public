@@ -298,54 +298,9 @@ All Intune activities are logged to:
 
 ## Graph API Access
 
-### Required Permissions
+Tenant-specific Intune Graph permissions, app registrations, consent state, and operational queries are maintained in the private `Central-Florida-HIDTA/Microsoft365` repository.
 
-The following Microsoft Graph API permissions are required for Intune management:
-
-| Permission | ID | Purpose |
-| -------------------------------------------- | ---------------------------------------- | ------------------------------- |
-| `DeviceManagementManagedDevices.Read.All` | `2f51be20-0bb4-4fed-bf7b-db946066c75e` | Read managed device information |
-| `DeviceManagementConfiguration.Read.All` | `7a6ee1e7-141e-4cec-ae74-d9db155731ff` | Read configuration profiles |
-| `DeviceManagementApps.Read.All` | `9769c687-087d-48ac-9cb3-c37dde652038` | Read app deployment information |
-
-**Status:** Permissions added to `Copilot-M365-ReadOnly` app registration  
-**Admin Consent:** Required (manual consent via Azure Portal)
-
-**Consent URL:**
-
-```text
-https://login.microsoftonline.com/9a6b75a5-cecf-400f-ac7b-10661ef878f4/adminconsent?client_id=677688a5-a45e-4d32-899e-d3b3bff0e031
-```
-
-### API Queries
-
-**Get Managed Devices:**
-
-```bash
-az rest --method GET \
-  --url "https://graph.microsoft.com/v1.0/deviceManagement/managedDevices"
-```
-
-**Get Compliance Policies:**
-
-```bash
-az rest --method GET \
-  --url "https://graph.microsoft.com/v1.0/deviceManagement/deviceCompliancePolicies"
-```
-
-**Get Configuration Profiles:**
-
-```bash
-az rest --method GET \
-  --url "https://graph.microsoft.com/v1.0/deviceManagement/deviceConfigurations"
-```
-
-**Get Managed Apps:**
-
-```bash
-az rest --method GET \
-  --url "https://graph.microsoft.com/v1.0/deviceAppManagement/mobileApps"
-```
+This public template intentionally excludes tenant identifiers, consent records, and app registration inventory.
 
 ## Integration Points
 

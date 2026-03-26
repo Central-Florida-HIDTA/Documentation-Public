@@ -14,7 +14,7 @@ This directory contains platform documentation templates for common enterprise i
 - `conditional-access-policies.md`
 - `security-compliance-center.md`
 - `m365-licensing.md`
-- `m365-api-access.md`
+- `m365-api-access.md` (boundary note pointing tenant-specific auth and Graph inventory to the private Microsoft365 repo)
 
 ## Usage Guidance
 
